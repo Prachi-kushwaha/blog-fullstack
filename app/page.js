@@ -1,5 +1,6 @@
 "use client"
-import BlogItem from "@/components/blog-item";
+
+import BlogList from "@/components/blog-list";
 import Header from "@/components/header";
 
 
@@ -7,7 +8,7 @@ export default function Home() {
   return (
     <div>
       <Header/>
-      <BlogItem/>
+      <BlogList/>
     </div>
   );
 }
