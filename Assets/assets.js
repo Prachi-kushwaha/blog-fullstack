@@ -56,7 +56,7 @@ export const assets = {
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_2,
         date:Date.now(),
-        category:"Startup",
+        category:"Coding",
         author:"Alex Bennett",
         author_img:profile_icon
     },
@@ -76,7 +76,7 @@ export const assets = {
         description:"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the..",
         image:blog_pic_4,
         date:Date.now(),
-        category:"Technology",
+        category:"Coding",
         author:"Alex Bennett",
         author_img:profile_icon
     },
